@@ -84,7 +84,7 @@ function Controller() {
     var addGridItems = function(args) {
         clearGrid();
         data = args || {};
-        for (var x = 0; data.length > x; x++) addGridItem(data[x]);
+        for (var x = 0; x < data.length; x++) addGridItem(data[x]);
     };
     var addGridItem = function(item) {
         var frame = Ti.UI.createView({

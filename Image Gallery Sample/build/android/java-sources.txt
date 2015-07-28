@@ -1,0 +1,8 @@
+"/Users/ijemofili/Documents/GitHub/AppceleratorTitanium_WanglingUI/TiFlexiGrid/Image Gallery Sample/build/android/gen/android/support/v7/appcompat/R.java"
+"/Users/ijemofili/Documents/GitHub/AppceleratorTitanium_WanglingUI/TiFlexiGrid/Image Gallery Sample/build/android/gen/com/lineartpr/flexigrid/ApplicationStylesheet.java"
+"/Users/ijemofili/Documents/GitHub/AppceleratorTitanium_WanglingUI/TiFlexiGrid/Image Gallery Sample/build/android/gen/com/lineartpr/flexigrid/AssetCryptImpl.java"
+"/Users/ijemofili/Documents/GitHub/AppceleratorTitanium_WanglingUI/TiFlexiGrid/Image Gallery Sample/build/android/gen/com/lineartpr/flexigrid/R.java"
+"/Users/ijemofili/Documents/GitHub/AppceleratorTitanium_WanglingUI/TiFlexiGrid/Image Gallery Sample/build/android/gen/com/lineartpr/flexigrid/TiflexigridActivity.java"
+"/Users/ijemofili/Documents/GitHub/AppceleratorTitanium_WanglingUI/TiFlexiGrid/Image Gallery Sample/build/android/gen/com/lineartpr/flexigrid/TiflexigridAppInfo.java"
+"/Users/ijemofili/Documents/GitHub/AppceleratorTitanium_WanglingUI/TiFlexiGrid/Image Gallery Sample/build/android/gen/com/lineartpr/flexigrid/TiflexigridApplication.java"
+"/Users/ijemofili/Documents/GitHub/AppceleratorTitanium_WanglingUI/TiFlexiGrid/Image Gallery Sample/build/android/gen/ti/modules/titanium/ui/R.java"
